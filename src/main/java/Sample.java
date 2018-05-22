@@ -1,4 +1,7 @@
 public class Sample {
+    public void sample_fun(){
+        // TODO : complete this
+    }
     public int add(int a, int b){
         return a+b;
     }
